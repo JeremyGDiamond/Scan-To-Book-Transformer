@@ -30,4 +30,5 @@ Initialize all the data
 ## Example
 I will be using a file from my metaphysics class titled “From Everything Must Go” as an example. Here’s the first page prior to transformation.
 ![alt text](https://github.com/JeremyGDiamond/Scan-To-Book-Transformer/blob/master/bookImageTransformer/FEMG/From%20Everything%20Must%20Go-01.jpg "unedited page 1")
-with use of the 
+With use of this tool every page is changed to this format
+![alt text](https://github.com/JeremyGDiamond/Scan-To-Book-Transformer/blob/master/From%20Everything%20Must%20Go-01%20transformed.jpg "edited page 1")
