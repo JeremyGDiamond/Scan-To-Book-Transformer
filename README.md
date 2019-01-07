@@ -34,3 +34,7 @@ With use of this tool every page is changed to this format
 ![alt text](https://github.com/JeremyGDiamond/Scan-To-Book-Transformer/blob/master/From%20Everything%20Must%20Go-01%20transformed.jpg "edited page 1")
 ### Note
 This book is horrible. 
+## Use 
+1. Unpack a .pdf or .doc file into an image gallery with page numbers in the name and sort by name. Several tools exist for this.
+1. Run the script pointed at the directory of that image gallery. No other files can be in this directory. This script is destructive so make sure to keep a copy of the original. The file system functions are only tested on windows.
+1. Pull the image gallery into your word processor of choice and convert that document as needed.
