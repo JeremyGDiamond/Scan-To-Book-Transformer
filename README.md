@@ -19,7 +19,7 @@ Takes in the ArrayList from fileList and, the needed transformation information,
 Takes in the ArrayList from fileList and, the needed transformation information, if there are two pages to an image. It then runs fullTransform on every image in the list, alternating profiles.
 ## Main
 The main goes through the following steps
-Initialize all the data
+1. Initialize all the data
 1. Take in the directory location
 1. Take in the number of pages per image preferences
 1. If needed run staggerFileNames
