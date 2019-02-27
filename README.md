@@ -25,7 +25,7 @@ The main goes through the following steps
 1. If needed run staggerFileNames
 1. Take in profile 1 settings
 1. Check if those settings are right
-1. If twoProfile = true, do the above for profile 2
+1. If twoProfile = true, do the previous 2 for profile 2
 1. Execute run1profile or run2profile as appropriate. 
 ## Example
 I will be using a file from my metaphysics class titled “From Everything Must Go” as an example as a page needs both croping and rortating. You can find it in "bookImageTransformer/FEMG". Here’s the first page prior to transformation.
