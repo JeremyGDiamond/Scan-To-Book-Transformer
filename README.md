@@ -29,12 +29,12 @@ The main goes through the following steps
 1. Execute run1profile or run2profile as appropriate. 
 ## Example
 I will be using a file from my metaphysics class titled “From Everything Must Go” as an example as a page needs both croping and rortating. You can find it in "bookImageTransformer/FEMG". Here’s the first page prior to transformation.
-![alt text](https://github.com/JeremyGDiamond/Scan-To-Book-Transformer/blob/master/bookImageTransformer/FEMG/From%20Everything%20Must%20Go-01.jpg "unedited page 1")
+![alt text](https://github.com/JeremyGDiamond/Scan-To-Book-Transformer/blob/master/FEMG/From%20Everything%20Must%20Go-01.jpg "unedited page 1")
 With use of this tool every page is changed to this format
 ![alt text](https://github.com/JeremyGDiamond/Scan-To-Book-Transformer/blob/master/From%20Everything%20Must%20Go-01%20transformed.jpg "edited page 1")
 ### Note
 This book is horrible. 
 ## Use 
 1. Unpack a .pdf or .doc file into an image gallery with page numbers in the name and sort by name. Several tools exist for this.
-1. Run the script pointed at the directory of that image gallery. No other files can be in this directory. This script is destructive so make sure to keep a copy of the original. The file system functions are only tested on windows.
+1. Run the script pointed at the directory of that image gallery. No other files can be in this directory. This script is destructive so make sure to keep a copy of the original. The file system functions only sort correctly on windows.
 1. Pull the image gallery into your word processor of choice and convert that document as needed.

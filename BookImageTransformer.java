@@ -68,7 +68,7 @@ public class BookImageTransformer {
                 choise = reader.readLine();
 
                 if("y".equals(choise))
-                    twoProfile = true;
+                    copyFiles = true;
         }
         
         if(copyFiles){ //copy all images
